@@ -1,7 +1,7 @@
-# VocalForge: Online Speech Generation and Training Platform
+# VoiceForge: Online Speech Generation and Training Platform
 
 ## Project Overview
-VocalForge is an online platform designed for speech generation and voice model training. It aims to provide users with high-quality voice synthesis and customization without requiring local software installation. The platform features both a simplified mode for general users and an advanced mode for professionals who require more control over model parameters.
+VoiceForge is an online platform designed for speech generation and voice model training. It aims to provide users with high-quality voice synthesis and customization without requiring local software installation. The platform features both a simplified mode for general users and an advanced mode for professionals who require more control over model parameters.
 
 ## Key Features
 - **Text-to-Speech (TTS)**: Convert text into personalized speech.
